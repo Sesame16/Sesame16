@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on some free LLM<br>🌱 I’m currently learning machine learning
+🔭 I’m currently working on some free LLM & AI Agents<br>
 
 
 # 💻 Tech Stack:
